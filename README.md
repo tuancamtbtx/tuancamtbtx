@@ -12,7 +12,7 @@
  [![Haoop](https://img.shields.io/badge/bigdata-hadoop-yellow)](#)
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuancamtbtx&left_color=green&right_color=red)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
