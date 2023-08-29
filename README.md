@@ -14,5 +14,9 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuancamtbtx&left_color=green&right_color=red)
 
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/2e8a7c2d711af9daddd34f9791143e7554c35d0f.svg" />
+</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
