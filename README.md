@@ -14,9 +14,22 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuancamtbtx&left_color=green&right_color=red)
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/2e8a7c2d711af9daddd34f9791143e7554c35d0f.svg" />
-</p>
+## Today's Weather Forecast in My Hometown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+{{ with $todayWeather := index .Weathers 0 }}
+
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+
+<img src="{{ $todayWeather.Icon}}"/>
+
+{{ $todayWeather.Condition }}
+
+{{template "hourly-table" $todayWeather.HourlyWeathers}}
+
+{{- end }}
+
+<div align="right">
+
+*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+
+</div>
