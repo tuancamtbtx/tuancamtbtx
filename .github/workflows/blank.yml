@@ -1,17 +1,26 @@
-name: Waka Readme
-
+name: "Cronjob"
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: '15 */6 * * *'
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-weather:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+      - name: Generate README
+        uses: huantt/weather-forecast@v1.0.4
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          city: HaNoi
+          days: 2
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          template-file: 'README.md.template'
+          out-file: 'README.md'
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update"
+          git push origin main
