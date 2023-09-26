@@ -11,7 +11,8 @@
 ### Skills
 
  [![Haoop](https://img.shields.io/badge/bigdata-hadoop-yellow)](#)
-(https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge]
+
+[!(https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge]]
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuancamtbtx&left_color=green&right_color=red)
 
