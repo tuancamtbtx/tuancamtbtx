@@ -17,18 +17,5 @@
 (https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge]
 (https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 
-## Today's Weather Forecast in My Hometown
-
-{{ with $todayWeather := index .Weathers 0 }}
-
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
-
-<img src="{{ $todayWeather.Icon}}"/>
-
-{{ $todayWeather.Condition }}
-
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
 
 
