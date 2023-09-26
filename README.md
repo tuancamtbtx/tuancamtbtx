@@ -6,11 +6,12 @@
 - 🖥️ I’m currently Big Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
 - 📫 How to reach me: [Face book - @tuancam](https://www.facebook.com/tuanbacam)
+- 😄 Pronouns: He/His
 
 ### Skills
 
  [![Haoop](https://img.shields.io/badge/bigdata-hadoop-yellow)](#)
-
+(https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge]
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuancamtbtx&left_color=green&right_color=red)
 
@@ -28,8 +29,4 @@
 
 {{- end }}
 
-<div align="right">
 
-*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
-
-</div>
