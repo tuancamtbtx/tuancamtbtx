@@ -11,12 +11,14 @@ Hi, I'm Tuan Van NGUYEN, a Senior Bigdata Engineer 🚀 from VietNam, currently,
 ### Skills
 
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Java Badge](https://img.shields.io/badge/Java-8-red.svg?style=for-the-badge&labelColor=black&logo=jdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-blue?style=for-the-badge&labelColor=black&logo=Apache%20Hadoop&logoColor=yellow)
 ![Google Badge](https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&labelColor=black&logo=Google%20Cloud&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&labelColor=black&logo=Apache%20Spark&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-D22128?style=for-the-badge&logo=Apache%20Flink&labelColor=black&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-F29639?style=for-the-badge&logo=dbt&logoColor=white)
@@ -25,7 +27,8 @@ Hi, I'm Tuan Van NGUYEN, a Senior Bigdata Engineer 🚀 from VietNam, currently,
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuancamtbtx&show_icons=true&hide_border=true)
