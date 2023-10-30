@@ -15,7 +15,7 @@ Hi, I'm Tuan Van NGUYEN, a Senior Bigdata Engineer 🚀 from VietNam, currently,
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-blue?style=for-the-badge&labelColor=black&logo=Apache%20Hadoop&logoColor=yellow)
-![Google Badge](https://img.shields.io/badge/-Google-Cloud-4285F4?style=for-the-badge&labelColor=black&logo=Google%20Cloud&logoColor=white)
+![Google Badge](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&labelColor=black&logo=Google%20Cloud&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
