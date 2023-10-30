@@ -5,9 +5,10 @@ Hi, I'm Tuan Van NGUYEN, a Senior Bigdata Engineer 🚀 from VietNam, currently,
 - 🖐️ I'm Nguyen Van Tuan
 - 🖥️ I’m currently Big Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
-- 📫 How to reach me: [Face book - @tuancam](https://www.facebook.com/tuanbacam)
+- 📫 How to reach me:
+   + [Face book - @tuancam](https://www.facebook.com/tuanbacam)
+   + [Linked In - @TuanNguyen](https://www.linkedin.com/in/tuanbacam/)
 - 😄 Pronouns: He/His
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### Skills
