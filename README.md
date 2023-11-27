@@ -38,16 +38,6 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 
 ⭐️ From [tuancamtbtx](https://github.com/tuancamtbtx)
 
-<div>
-<a href="https://github.com/tuancamtbtx/dataplatform-stack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tuancamtbtx&repo=dataplatform-stack" />
-</a>
-<a href="https://github.com/tuancamtbtx/airflow-example">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tuancamtbtx&repo=airflow-example" />
-</a>
-</div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
