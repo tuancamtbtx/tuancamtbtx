@@ -1,5 +1,5 @@
 ### Hello World 🖥️ 🖐️
-Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata, currently I'm working as a Senior Bigdata Engineer 🚀. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata, currently I'm working as a Senior Data Engineer 🚀(Tiki). Beside's programming, I enjoy eating food and traveling.
 ### About me 🐬
 
 - 🖐️ I'm Nguyen Van Tuan
