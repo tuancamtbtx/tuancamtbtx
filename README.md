@@ -33,12 +33,10 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div>
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="200">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuancamtbtx&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="400" height="200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400" height="200">
-</div>
 </div>
 ⭐️ From [tuancamtbtx](https://github.com/tuancamtbtx)
 
