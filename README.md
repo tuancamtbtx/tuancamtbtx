@@ -34,8 +34,11 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![tuancamtbtx's Stats](https://github-readme-stats.vercel.app/api?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br>
 ![tuancamtbtx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuancamtbtx&theme=vue-dark&hide_border=true)
+<br>
 ![tuancamtbtx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br>
 ⭐️ From [tuancamtbtx](https://github.com/tuancamtbtx)
 
 <picture>
