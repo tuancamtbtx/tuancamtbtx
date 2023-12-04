@@ -5,11 +5,15 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 - 🖐️ I'm Nguyen Van Tuan
 - 🖥️ I’m currently Senior Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
-- 📫 How to reach me:
-   + [Face book - @tuancam](https://www.facebook.com/tuanbacam)
-   + [Linked In - @TuanNguyen](https://www.linkedin.com/in/tuanbacam/)
 - 😄 Pronouns: He/His
 
+### 📫 How to reach me:
+<div>
+  <a href="https://t.me/Tuancamtbtx" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23086DD7?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nguyenvantuan140397@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tuanbacam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Skills
 
@@ -38,8 +42,7 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuancamtbtx&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="width:300px; height:200px; margin:10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:300px; height:200px; margin:10px;">
 </div>
-⭐️ From [tuancamtbtx](https://github.com/tuancamtbtx)
-
+### My Github - Overview
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
