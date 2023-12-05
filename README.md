@@ -14,7 +14,7 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
   <a href="https://www.linkedin.com/in/tuanbacam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Technical Strength
+### 👹 Technical Strength
 
 
 
@@ -30,19 +30,19 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-blue?style=for-the-badge&labelColor=black&logo=Apache%20Hadoop&logoColor=yellow)
 
-### Languages I know
+### 🥰 Languages I know
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### My Github - Overview
+### 🤠 My Github - Overview
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width:300px; height:200px; margin:10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuancamtbtx&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="width:300px; height:200px; margin:10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:300px; height:200px; margin:10px;">
 </div>
 
-### My Commit - Overview
+### 😇 My Commit - Overview
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
