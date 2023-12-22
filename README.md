@@ -6,6 +6,7 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 - 🖥️ I’m currently Senior Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
 - 😄 Pronouns: He/His
+
 <div align="center">
   
 ```diff
@@ -68,8 +69,15 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 </div>
 
 ### 😇 My Commit - Overview
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake-dark.svg">
 </picture>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tuancamtbtx&color=0E9C47&style=for-the-badge">
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/tuancamtbtx/github-readme-activity-graph -->
+<p align="center">
