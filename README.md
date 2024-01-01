@@ -1,7 +1,7 @@
 ### Hello World 🖥️ 🖐️
 Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata, currently I'm working as a Senior Data Engineer 🚀(Tiki). Beside's programming, I enjoy eating food and traveling.
 ### About me 🐬
-
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Tuan%20Nguyen&fontSize=80&animation=twinkling&fontAlignY=43&desc=A%20Data%20Engineer%20/%20A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 - 🖐️ I'm Nguyen Van Tuan
 - 🖥️ I’m currently Senior Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
