@@ -6,7 +6,7 @@ Hi, I'm Tuan Van NGUYEN,Have about 6 years of experience in Software and Bigdata
 - 🖥️ I’m currently Senior Data Engineer.
 - 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
 - 😄 Pronouns: He/His
-
+[<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=tuancamtbtx&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="tuancamtbtx" /></a> </p>]()
 <div align="center">
   
 ```diff
