@@ -6,11 +6,7 @@ on:
     - main
 jobs:
   test:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
       - name: Test
         run: echo $DATE_RUN
