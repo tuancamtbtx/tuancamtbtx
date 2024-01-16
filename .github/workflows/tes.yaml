@@ -1,0 +1,18 @@
+name: generate animation
+
+on:
+  push:
+    branches:
+    - main
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Test
+        run: echo $DATE_RUN
+        env:
+          DATE_RUN: ${{ $(date '+%Y-%m-%d') }}
