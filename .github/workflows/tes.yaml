@@ -1,11 +1,11 @@
-name: generate animation
+name: Test
 
 on:
   push:
     branches:
     - main
 jobs:
-  generate:
+  test:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
