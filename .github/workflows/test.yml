@@ -1,14 +1,10 @@
-name: Test
-
-on:
-  push:
-    branches:
-    - main
+name: deploy
+on: [push]
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Test
-        run: echo $DATE_RUN
-        env:
-          DATE_RUN: ${{ steps.date.outputs.date }}
+      - name: Set current date as env variable
+        run: echo "DATE_RUN=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: Echo current date
+        run: echo $DATE_RUN # Gives "2022-12-11T01:42:20"
