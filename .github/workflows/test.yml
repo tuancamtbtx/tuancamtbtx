@@ -11,4 +11,4 @@ jobs:
       - name: Test
         run: echo $DATE_RUN
         env:
-          DATE_RUN: ${{(date '+%Y-%m-%d')}}
+          DATE_RUN: ${{ steps.date.outputs.date }}
