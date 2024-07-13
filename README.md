@@ -1,37 +1,13 @@
 ### Hello World 🖥️ 🖐️
-Hi, I'm Tuan Van NGUYEN(Mr),Have about 7 years of experience in Software and Bigdata, currently I'm working as a Senior Data Engineer 🚀(Tiki). Beside's programming, I enjoy eating food and traveling.
+Hi, My name is Tuan Van NGUYEN(Mr), I Have about 7 years of experience in Software and Bigdata Engineering.C urrently I'm working as a Senior Data Engineer 🚀(Tiki). I'd like to everything to be easy to work. Beside's programming, I enjoy eating food and traveling.
+
 ### About me 🐬
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Tuan%20Nguyen&fontSize=80&animation=twinkling&fontAlignY=43&desc=A%20Data%20Engineer%20/%20A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 - 🖐️ I'm Nguyen Van Tuan
-- 🖥️ I’m currently Senior Data Engineer.
-- 🌱 I’m currently working Bigdata, GCP, SQL,Docker,K8s ... 
+- 🖥️ I’m currently working as a Senior Data Engineer.
+- 🌱 I have developed many more projects such as Bigdata Platform, Dataops, Finops, MLops, Data Insight  ... 
 - 😄 Pronouns: He/His
 [<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=tuancamtbtx&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="tuancamtbtx" /></a> </p>]()
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
 
 ### 📫 How to reach me:
 <div>
